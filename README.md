@@ -1,3 +1,3 @@
-# Exercicio
+# Exercício
 Exercício Senai
 
