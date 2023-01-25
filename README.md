@@ -1,2 +1,2 @@
-# Exercício
+# Exercicio
 Exercício Senai
